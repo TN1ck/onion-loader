@@ -1,0 +1,28 @@
+{
+  "name": "onion-loader",
+  "version": "1.0.0",
+  "description": "custom yaml-loader that uses yaml-markdown to load yaml-files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TN1ck/onion-loader.git"
+  },
+  "keywords": [
+    "yaml",
+    "markdown",
+    "webpack",
+    "loader"
+  ],
+  "author": "Tom Nick <tomwanick@gmail.com> (https://github.com/TN1ck)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TN1ck/onion-loader/issues"
+  },
+  "homepage": "https://github.com/TN1ck/onion-loader",
+  "dependencies": {
+    "yaml-markdown": "^1.0.2"
+  }
+}
